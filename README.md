@@ -18,6 +18,7 @@ jittorhub://resnext101_32x8d.pkl
 
 #### 开源代码链接
 
+https://github.com/Craig-Lin616/Jittor--Open-Set_Few-Shot_Classification--DICA/tree/main
 
 #### 方法思路
 **步骤1 -- 以半监督方式扩增训练数据集**
