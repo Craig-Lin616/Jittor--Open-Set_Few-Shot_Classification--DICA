@@ -1,4 +1,4 @@
-# Jittor-DICA--
+# Jittor-DICA
 
 #### 配置环境 
 python 3.8.10, cuda 11.3, cudnn8.2.0, jittor1.3.8.5, g++ 9.4.0
