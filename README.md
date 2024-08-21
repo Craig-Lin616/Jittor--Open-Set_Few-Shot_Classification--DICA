@@ -7,8 +7,10 @@ python 3.8.10, cuda 11.3, cudnn8.2.0, jittor1.3.8.5, g++ 9.4.0
 
 1.OPENAI官方预训练的ViT-B/32版本的CLIP模型：
 https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt
+
 2.Jittor官方预训练的Resnet101模型：
 jittorhub://resnet101.pkl
+
 3.Jittor官方预训练的Rsnext101_32x8d模型：
 jittorhub://resnext101_32x8d.pkl
 
