@@ -11,7 +11,7 @@ https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c1
 2.Jittor官方预训练的Resnet101模型：
 jittorhub://resnet101.pkl
 
-3.Jittor官方预训练的Rsnext101_32x8d模型：
+3.Jittor官方预训练的Resnext101_32x8d模型：
 jittorhub://resnext101_32x8d.pkl
 
 测试时所使用的所有模型参数量大小为286M
